@@ -12,7 +12,7 @@ A Streamlit web app that:
 
 ## 🚀 Demo
 
-Try it live on *[[Streamlit Cloud](https://share.streamlit.io/YOUR_USERNAME/YOUR_REPO_NAME/main/app.py)](https://summarizer-haat5hfkctfunj5w26f88y.streamlit.app/)*
+Try it live on *https://summarizer-haat5hfkctfunj5w26f88y.streamlit.app*
 
 
 
@@ -120,5 +120,5 @@ CS24B1109
 
 Powered by  Mistral, Streamlit, Hugging Face, and YouTube Transcript API
 
-
+Because of some unexpected things, I had to develop this app in the last two days, so unable to pack more features, this repository will be updated frequently as I pack more features.
 
